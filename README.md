@@ -1,2 +1,3 @@
 # Amazon-Clone
 Amazon Clone Project
+The Amazon Clone project is a website created using HTML and CSS, resembling the real Amazon platform. It features a visually similar design with product images, banners, and layout closely matching Amazon’s interface. The project includes various Amazon product images and links. When users click on certain links, they are redirected to the official Amazon app, creating an authentic experience. This project highlights skills in web design, responsive layouts, and attention to detail. It serves as a portfolio piece showcasing expertise in replicating professional designs and understanding user interfaces. Developed independently, it is a great example of creativity and innovation.
