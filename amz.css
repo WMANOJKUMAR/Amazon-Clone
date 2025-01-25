@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    text-align: justify;
+    
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    border: 3px solid blue;
+}
+button{
+    background-color: yellow;
+}
+#logo{
+    color: yellow;
+    text-decoration: none;
+}
+a{
+    margin-right: 180px;
+}
+input{
+    color: blue;
+}
+.cont{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+#cc{
+    height: 500;
+}
